@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pivot_ConditionalFormatting", "Pivot_ConditionalFormatting\Pivot_ConditionalFormatting.vbproj", "{3679DE89-AD76-4497-AC1D-D11750B6896E}"
 EndProject
