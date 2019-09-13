@@ -3,11 +3,16 @@
 
 * [Form1.cs](./CS/Pivot_ConditionalFormatting/Form1.cs) (VB: [Form1.vb](./VB/Pivot_ConditionalFormatting/Form1.vb))
 <!-- default file list end -->
-# How to apply conditional formatting to Pivot cells
+# How to Apply Conditional Formatting to Pivot Cells
 
 
-The following example demonstrates how to apply conditional formatting to Pivot cells at different detail levels.<br />- The <strong>Value</strong> format condition (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionValuetopic">FormatConditionValue</a>) is used to apply formatting to the first-level data cells.<br />- The <strong>Range Gradient</strong> condition (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionRangeGradienttopic">FormatConditionRangeGradient</a>) is used to highlight the last-level data cells.<br />- The <strong>Color Range</strong> condition (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionRangeSettopic">FormatConditionRangeSet</a>) is used to classify values of Grand Total cells.<br />- The <strong>Top-Bottom</strong> condition (<a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardCommonFormatConditionTopBottomtopic">FormatConditionTopBottom</a>) highlights row field values corresponding to top 3 categories.
+The following example demonstrates how to apply conditional formatting to Pivot cells at different detail levels.
 
-<br/>
+*  The **Value** format condition ([FormatConditionValue](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionValue)) applies to the first-level data cells.
+* The **Range Gradient** condition ([FormatConditionRangeGradient](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionRangeGradient)) is used to highlight the last-level data cells.
+* The **Color Range** condition ([FormatConditionRangeSet](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionRangeSet)) classifies values of the Grand Total cells.
+* The **Top-Bottom** condition ([FormatConditionTopBottom](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionTopBottom)) highlights row field values from the top 3 categories.
+
+![screenshot](/images/screenshot.png)
 
 
