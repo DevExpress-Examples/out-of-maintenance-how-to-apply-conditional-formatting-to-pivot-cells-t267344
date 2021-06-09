@@ -15,4 +15,8 @@ The following example demonstrates how to apply conditional formatting to Pivot 
 
 ![screenshot](/images/screenshot.png)
 
+## Documentation
+
+* [Conditional Formatting](https://docs.devexpress.com/Dashboard/116914/common-features/appearance-customization/conditional-formatting)
+* [Pivot - Conditional Formatting](https://docs.devexpress.com/Dashboard/401934)
 
