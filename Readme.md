@@ -3,7 +3,7 @@
 
 * [Form1.cs](./CS/Pivot_ConditionalFormatting/Form1.cs) (VB: [Form1.vb](./VB/Pivot_ConditionalFormatting/Form1.vb))
 <!-- default file list end -->
-# How to Apply Conditional Formatting to Pivot Cells
+# Dashboard for WinForms - How to Apply Conditional Formatting to Pivot Cells
 
 
 The following example demonstrates how to apply conditional formatting to Pivot cells at different detail levels.
